@@ -1,6 +1,3 @@
-body{
-	perspective:1000px;
-}
 
 	#dial{
 			width:500px;
@@ -10,9 +7,7 @@ body{
 			position:relative;
 			margin:100px auto;
 			background:radial-gradient(250px at center,#6D503B 0%,#6D503B 5%,#E6E3CD 5%,#DFD7BC 70%,#DFD3B2 80%) padding-box,
-						url("images/wood.png") border-box 0/cover;
-			/*transform-style:preserve-3d;
-			transform:rotate3d(1,1,1,20deg)translate3d(20px);*/
+						url("images/wood-1.jpg") border-box 0/cover;
 		}
 
 	@-webkit-keyframes clock{
@@ -24,7 +19,7 @@ body{
 						}
 
 						50%{
-							transform:rotate(180deg);/
+							transform:rotate(180deg);
 						}
 
 						75%{
