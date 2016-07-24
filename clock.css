@@ -7,7 +7,7 @@
 			position:relative;
 			margin:100px auto;
 			background:radial-gradient(250px at center,#6D503B 0%,#6D503B 5%,#E6E3CD 5%,#DFD7BC 70%,#DFD3B2 80%) padding-box,
-						url("images/wood-1.jpg") border-box 0/cover;
+						url("wood-1.jpg") border-box 0/cover;
 		}
 
 	@-webkit-keyframes clock{
